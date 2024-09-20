@@ -1,1 +1,2 @@
-python-dateutil==2.8.2
+python -m venv venv
+pip install python-dateutil==2.8.2
